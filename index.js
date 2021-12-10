@@ -102,6 +102,7 @@ async function main () {
     locationId,
     firstName: config.testee.firstName,
     prefix: null,
+    surveyOptIn: false,
     lastName: config.testee.lastName,
     emailAddress: config.testee.emailAddress,
     dateOfBirth: config.testee.dateOfBirth,
